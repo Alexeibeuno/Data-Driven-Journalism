@@ -13,3 +13,9 @@ Step 1: Extract the info from the news using OCR.
 Tasks(Due on Wednesday evening):
 Rashmi - Find valid Websites 
 Alexei - Find valid Writers/Publication House
+
+Gender Bias:
+Tasks to complete:
+1. Balance class of the gender dataset for author's gender prediction
+2. Get more dataset of gender biased sentences.
+3. Combine the two and conclude results.
